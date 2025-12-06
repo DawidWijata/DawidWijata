@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-326CE5?style=for-the-badge&logo=linkedin&logoColor=fafafa)](https://www.linkedin.com/in/dawid-wijata/?locale=en_US) 
 [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:kontakt@dawidwijata.pl)
 
-I’m a **Frontend Developer* with a solid foundation in full-stack engineering, which allows me to design frontends that perform reliably and integrate smoothly with complex systems.
+I’m a **Frontend Developer** with a solid foundation in full-stack engineering, which allows me to design frontends that perform reliably and integrate smoothly with complex systems.
 Over the years, I’ve worked across the full stack — but I found my strongest impact and satisfaction in frontend development, where architecture, design, and user experience come together. I’m passionate about writing clean, efficient, and maintainable code that scales globally.
 
 ### Core values
