@@ -13,7 +13,7 @@ Over the years, I’ve worked across the full stack — but I found my strongest
 
 ### Hobbies
 - :muscle: gym sports & powerlifting
-- :sushi: speedcubing
+- :white_square_button: speedcubing
 - :european_castle: LEGO building
 
 ## Tech stack
