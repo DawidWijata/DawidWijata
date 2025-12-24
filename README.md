@@ -2,8 +2,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-326CE5?style=for-the-badge&logo=linkedin&logoColor=fafafa)](https://www.linkedin.com/in/dawid-wijata/?locale=en_US) 
 [![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:kontakt@dawidwijata.pl)
 
-I’m a **Frontend Developer** with a solid foundation in full-stack engineering, which allows me to design frontends that perform reliably and integrate smoothly with complex systems.
-Over the years, I’ve worked across the full stack — but I found my strongest impact and satisfaction in frontend development, where architecture, design, and user experience come together. I’m passionate about writing clean, efficient, and maintainable code that scales globally.
+I'm a Software Engineer who likes building complete systems - backend, frontend, and everything in between. My go-to stack is .NET and Angular, and I'm comfortable working on any part of a modern web application.
+
+I've worked on different types of projects, from financial services to tax software, where I've done everything from designing APIs to building accessible interfaces and organizing component architectures. Having this range of experience helps me make smarter technical choices and spot potential issues early.
+
+I care about collaboration, writing code that's easy to understand, and building systems that can handle change. I also like helping teammates improve their skills and being part of technical discussions - code reviews and mentoring are genuinely rewarding parts of my work
 
 ### Core values
 - :family: empathy
